@@ -7,6 +7,6 @@ while balance > 0:
         print("remaining balance: ",balance)
     
     else:
-        print("Insufficient balance")
+        print("Insufficient balance ! ")
 
     
