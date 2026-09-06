@@ -10,5 +10,5 @@ if mark >= 75:
 elif mark < 75:
     print("you are not eligible for scholarship")
 
-else:
+elif mark > 100:
     print("enter a valid mark and attendance percentage")
