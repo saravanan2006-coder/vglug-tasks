@@ -77,7 +77,7 @@ cd vglug-tasks
 python3 EB_Bill.py
 ```
 
-## Add this week's programs
+<!-- ## Add this week's programs
 
 <details><summary>Three steps</summary>
 
@@ -85,4 +85,4 @@ python3 EB_Bill.py
 2. Run `python build.py` to refresh `programs.js` and this README.
 3. Commit and push. The live page updates itself.
 
-</details>
+</details> -->
