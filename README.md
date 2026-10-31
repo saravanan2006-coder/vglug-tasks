@@ -85,4 +85,4 @@ python3 EB_Bill.py
 2. Run `python build.py` to refresh `programs.js` and this README.
 3. Commit and push. The live page updates itself.
 
-</details> -->.
+</details> -->
