@@ -4,7 +4,7 @@ Weekly exercises from my Python with agentic AI course at VGLUG Foundation.</p>
 
 <p align="center">
 <a href="https://saravanan2006-coder.github.io/vglug-tasks/"><img alt="Open the live page" src="https://img.shields.io/badge/open-live%20page-1B3FD1?style=for-the-badge"></a>
-<img alt="Programs" src="https://img.shields.io/badge/programs-16-FFB703?style=for-the-badge&labelColor=0F1B3D">
+<img alt="Programs" src="https://img.shields.io/badge/programs-19-FFB703?style=for-the-badge&labelColor=0F1B3D">
 <img alt="Python" src="https://img.shields.io/badge/python-3-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -20,7 +20,8 @@ flowchart LR
     T3["Strings<br/>2 programs"]
     T4["Tuples, sets and dicts<br/>3 programs"]
     T5["Iterators and decorators<br/>2 programs"]
-    T0 --> T1 --> T2 --> T3 --> T4 --> T5
+    T6["palindrome , power and steps<br/>3 programs"]
+    T0 --> T1 --> T2 --> T3 --> T4 --> T5 --> T6
 ```
 
 ## Decisions
@@ -69,6 +70,14 @@ flowchart LR
 | [`iterator.py`](iterator.py) | Walks through a name one letter at a time. | `iter()`, `next()` |
 | [`decorator.py`](decorator.py) | Wraps a greeting function and repeats it as many times as you ask. | `decorators`, `closures` |
 
+## palindrome , power and steps
+
+| Program | What it does | Concepts |
+| --- | --- | --- |
+| [`num_palindrome.py`](num_palindrome.py) | checks weather the given input number is a palindrome or not.  | `recusrion`, `operators` |
+| [`steps.py`](steps.py) | Count how many steps are required to make a number zero.  | `loops`, `conditional statements` |
+| [`power.py`](power.py) | check whether a given number is a power of 2. | `function` |
+
 ## Run a program
 
 ```bash
@@ -77,7 +86,7 @@ cd vglug-tasks
 python3 EB_Bill.py
 ```
 
-<!-- ## Add this week's programs
+## Add this week's programs
 
 <details><summary>Three steps</summary>
 
@@ -85,4 +94,4 @@ python3 EB_Bill.py
 2. Run `python build.py` to refresh `programs.js` and this README.
 3. Commit and push. The live page updates itself.
 
-</details> -->
+</details>
